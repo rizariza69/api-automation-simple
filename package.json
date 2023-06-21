@@ -1,0 +1,22 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "description": "api automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "supertest"
+  ],
+  "author": "riza",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "dotenv": "^16.3.1",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
